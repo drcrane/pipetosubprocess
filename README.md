@@ -64,4 +64,10 @@ It might be cool to use the techniques learnt here to extend the little shell
 [described here](https://brennan.io/2015/01/16/write-a-shell-in-c/) so it can
 pipe stuff like a more fully featured shell.
 
+This may be a useful resource:
+
+* [microhowto.info capture output of a child process](http://www.microhowto.info/howto/capture_the_output_of_a_child_process_in_c.html)
+
+
+It is similar to this tutorial.
 
